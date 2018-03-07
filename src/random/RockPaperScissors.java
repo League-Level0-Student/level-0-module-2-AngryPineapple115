@@ -118,4 +118,3 @@ public class RockPaperScissors extends JPanel implements ActionListener{
             return "";
         }
     }
-    
