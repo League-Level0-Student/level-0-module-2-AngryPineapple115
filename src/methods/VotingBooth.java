@@ -17,8 +17,7 @@ JOptionPane.showMessageDialog(null, "Good choice.");
 	}
 	
 	else{
-		JOptionPane.showMessageDialog(null, "Sorry, you can't vote, and "
-				+ "nobody cares what you think.");
+		JOptionPane.showMessageDialog(null, "Nobody cares what you think!");
 	}
 	}
 }
